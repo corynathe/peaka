@@ -1,0 +1,34 @@
+{
+  "files": {
+    "app.js": "/peeka/static/js/app.8c6c2bc1.chunk.js",
+    "app.js.map": "/peeka/static/js/app.8c6c2bc1.chunk.js.map",
+    "runtime~app.js": "/peeka/static/js/runtime~app.015a4c69.js",
+    "runtime~app.js.map": "/peeka/static/js/runtime~app.015a4c69.js.map",
+    "static/js/2.3505f823.chunk.js": "/peeka/static/js/2.3505f823.chunk.js",
+    "static/js/2.3505f823.chunk.js.map": "/peeka/static/js/2.3505f823.chunk.js.map",
+    "fonts/AntDesign.ttf": "/peeka/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/peeka/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/peeka/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/peeka/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/peeka/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/peeka/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/peeka/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/peeka/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/peeka/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/peeka/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/peeka/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/peeka/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/peeka/favicon-16.png",
+    "favicon-32.png": "/peeka/favicon-32.png",
+    "favicon.ico": "/peeka/favicon.ico",
+    "index.html": "/peeka/index.html",
+    "manifest.json": "/peeka/manifest.json",
+    "serve.json": "/peeka/serve.json",
+    "static/js/2.3505f823.chunk.js.LICENSE.txt": "/peeka/static/js/2.3505f823.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.015a4c69.js",
+    "static/js/2.3505f823.chunk.js",
+    "static/js/app.8c6c2bc1.chunk.js"
+  ]
+}
