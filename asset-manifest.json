@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/peeka/static/js/app.8c6c2bc1.chunk.js",
-    "app.js.map": "/peeka/static/js/app.8c6c2bc1.chunk.js.map",
+    "app.js": "/peeka/static/js/app.9500e1c8.chunk.js",
+    "app.js.map": "/peeka/static/js/app.9500e1c8.chunk.js.map",
     "runtime~app.js": "/peeka/static/js/runtime~app.015a4c69.js",
     "runtime~app.js.map": "/peeka/static/js/runtime~app.015a4c69.js.map",
     "static/js/2.3505f823.chunk.js": "/peeka/static/js/2.3505f823.chunk.js",
@@ -29,6 +29,6 @@
   "entrypoints": [
     "static/js/runtime~app.015a4c69.js",
     "static/js/2.3505f823.chunk.js",
-    "static/js/app.8c6c2bc1.chunk.js"
+    "static/js/app.9500e1c8.chunk.js"
   ]
 }
