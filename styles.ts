@@ -6,13 +6,13 @@ export const STYLES = StyleSheet.create({
         // flex: 1,
         height: '100%',
         maxWidth: 500,
-        backgroundColor: '#333',
+        backgroundColor: '#333333',
     },
     header: {
         height: '5%',
     },
     north: {
-        height: '30%',
+        // height: '30%',
         alignItems: 'center',
         justifyContent: 'center',
     },
@@ -20,7 +20,7 @@ export const STYLES = StyleSheet.create({
         height: '10%',
     },
     south: {
-        height: '55%',
+        // height: '55%',
     },
 
     title: {
